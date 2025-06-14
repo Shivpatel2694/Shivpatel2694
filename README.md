@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Springboot & React Projects<br>👯I'm looking forward to collaborate on Hackathons and Events<br>🤝I'm looking for help with Web3<br>
+🔭I'm currently working on Mern-Stack Projects<br>👯I'm looking forward to collaborate on Hackathons and Events<br>🤝I'm looking for help with Web3<br>
 
 
 ## 🌐 Socials:
